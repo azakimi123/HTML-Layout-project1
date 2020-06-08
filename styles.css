@@ -73,6 +73,10 @@ header {
     right: 25px;
 }
 
+.menu:hover {
+    cursor: pointer;
+}
+
 .main {
     background-image: url("https://pbs.twimg.com/media/EX6P2uzVAAEnKQL.jpg");
     /* background-color: black; */
