@@ -61,9 +61,17 @@ header {
     right: 135px;
 }
 
+.menu {
+    width: 45px;
+    height: 20px;
+    position: relative;
+    right: 25px;
+}
+
 .main {
-    background-image: url("https://content.fortune.com/wp-content/uploads/2019/04/gettyimages-1128341806-e1554918926739.jpg");
+    background-image: url("https://pbs.twimg.com/media/EX6P2uzVAAEnKQL.jpg");
     /* background-color: black; */
     height: calc(100vh - 75px);
-    background-size: 100%;
+    width: 100%;
+    background-size: cover;
 }
