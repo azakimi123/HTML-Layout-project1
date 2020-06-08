@@ -60,6 +60,7 @@ header {
     position: relative;
     top: 4px;
     right: 135px;
+    font-family: Arial, Verdana,sans-serif;
 }
 
 .link:hover {
@@ -83,9 +84,10 @@ header {
 }
 
 .main {
-    background-image: url("https://pbs.twimg.com/media/EX6P2uzVAAEnKQL.jpg");
+    background-image: url("https://www.spacex.com/static/images/backgrounds/home_feature.webp");
     /* background-color: black; */
     height: calc(100vh - 75px);
     width: 100%;
     background-size: cover;
+    font-family: Arial, Verdana,sans-serif;
 }
