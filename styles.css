@@ -62,6 +62,8 @@ header {
 }
 
 .main {
-    background-color: black;
+    background-image: url("https://content.fortune.com/wp-content/uploads/2019/04/gettyimages-1128341806-e1554918926739.jpg");
+    /* background-color: black; */
     height: calc(100vh - 75px);
+    background-size: 100%;
 }
