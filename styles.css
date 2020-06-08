@@ -61,6 +61,11 @@ header {
     right: 135px;
 }
 
+.link:hover {
+    text-decoration: underline white;
+    cursor: pointer;
+}
+
 .menu {
     width: 45px;
     height: 20px;
