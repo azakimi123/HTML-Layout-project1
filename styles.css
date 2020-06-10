@@ -95,6 +95,7 @@ header {
     background-size: cover;
     font-family: Arial, Verdana,sans-serif;
     position: relative;
+    overflow: hidden;
 }
 
 /* .container {
